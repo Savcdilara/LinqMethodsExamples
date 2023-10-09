@@ -1,0 +1,14 @@
+C:\Users\savcd\source\repos\Core\LinqMethodsExamples\LinqMethodsExamples\bin\Debug\net7.0\LinqMethodsExamples.exe
+C:\Users\savcd\source\repos\Core\LinqMethodsExamples\LinqMethodsExamples\bin\Debug\net7.0\LinqMethodsExamples.deps.json
+C:\Users\savcd\source\repos\Core\LinqMethodsExamples\LinqMethodsExamples\bin\Debug\net7.0\LinqMethodsExamples.runtimeconfig.json
+C:\Users\savcd\source\repos\Core\LinqMethodsExamples\LinqMethodsExamples\bin\Debug\net7.0\LinqMethodsExamples.dll
+C:\Users\savcd\source\repos\Core\LinqMethodsExamples\LinqMethodsExamples\bin\Debug\net7.0\LinqMethodsExamples.pdb
+C:\Users\savcd\source\repos\Core\LinqMethodsExamples\LinqMethodsExamples\obj\Debug\net7.0\LinqMethodsExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savcd\source\repos\Core\LinqMethodsExamples\LinqMethodsExamples\obj\Debug\net7.0\LinqMethodsExamples.AssemblyInfoInputs.cache
+C:\Users\savcd\source\repos\Core\LinqMethodsExamples\LinqMethodsExamples\obj\Debug\net7.0\LinqMethodsExamples.AssemblyInfo.cs
+C:\Users\savcd\source\repos\Core\LinqMethodsExamples\LinqMethodsExamples\obj\Debug\net7.0\LinqMethodsExamples.csproj.CoreCompileInputs.cache
+C:\Users\savcd\source\repos\Core\LinqMethodsExamples\LinqMethodsExamples\obj\Debug\net7.0\LinqMethodsExamples.dll
+C:\Users\savcd\source\repos\Core\LinqMethodsExamples\LinqMethodsExamples\obj\Debug\net7.0\refint\LinqMethodsExamples.dll
+C:\Users\savcd\source\repos\Core\LinqMethodsExamples\LinqMethodsExamples\obj\Debug\net7.0\LinqMethodsExamples.pdb
+C:\Users\savcd\source\repos\Core\LinqMethodsExamples\LinqMethodsExamples\obj\Debug\net7.0\LinqMethodsExamples.genruntimeconfig.cache
+C:\Users\savcd\source\repos\Core\LinqMethodsExamples\LinqMethodsExamples\obj\Debug\net7.0\ref\LinqMethodsExamples.dll
